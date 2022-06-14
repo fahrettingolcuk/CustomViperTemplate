@@ -1,5 +1,3 @@
 //  ___FILEHEADER___
 
-protocol ___FILEBASENAME___ {
-    func getData()
-}
+protocol ___FILEBASENAME___ { }
