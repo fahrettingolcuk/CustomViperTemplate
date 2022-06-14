@@ -1,6 +1,6 @@
 //  ___FILEHEADER___
 
-struct ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_productName___Presenting {
+final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_productName___Presenting {
     private weak var view: ___VARIABLE_productName___View?
     private let interactor: ___VARIABLE_productName___Interacting
     private let router: ___VARIABLE_productName___Routing
