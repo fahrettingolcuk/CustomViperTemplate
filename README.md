@@ -4,7 +4,7 @@
 
 2- Move to "Users/(user.name)/Library/Developer/Xcode/Templates/File Templates"
 
-3- Create file template
+3- Create new file in project navigator and select CustomViperTemplate then enter the template name.
 
 4- Move template to anywhere (e.g Desktop)
 
